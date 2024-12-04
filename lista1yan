@@ -72,8 +72,11 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/HZDRG0K.png",RECORD NEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
-#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/TXJKwzZ.png",REDE BRASIL
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/TXJKwzZ.png",REDE BRASIL - CANAL 1
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png",REDE BRASIL - CANAL 2
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/ZJgD38F.png",REDE TV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
@@ -95,3 +98,13 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3
 
 #EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/iuoXchN.png",TV PAI ETERNO - CANAL 2
 https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://www.adessotv.com.br/redes.png",ADESSO TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://www.compratri.com.br/img/uploads/companies/51/conecta-mais-tv-5f6a2bad45b61-original.jpg",CONECTA + TV
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://telaviva.com.br/wp-content/uploads/2022/12/TelaViva2023_OK-544x180-1.png",TELA VIVA TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+  
