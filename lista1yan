@@ -1,0 +1,97 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ABERTO" tvg-logo="https://i.imgur.com/aNkP7Zd.png",AGRO BRASIL TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/wULpnYR.png",ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/c1QqslA.png",ALPHA CHANEL
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/7rjCS5i.png",AMAZON SAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 group-title="ANIME" tvg-logo="https://i.imgur.com/CFSSTID.png",ANIME TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/ifGQGJx.png",BEM TV - SBT
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://i.imgur.com/ZqhizdP.png",BOAS NOVAS TV
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/co7TCWC.png",TV CULTURA
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/G0x4xqa.png",CANAL METROPOLITANO DE NOTÍCIAS GOIÁS
+https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://i.imgur.com/hs2YVJ3.png",RICOS TV
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/w9R9IIX.png",CANAL RURAL
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/ht4tUOc.png",CANAL SAÚDE
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png",CARTOONNITO
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png",CARTOON NETWORK HD
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png",CARTOON NETWORK 2 HD
+https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/22jXTu4.png",CENTRAL TV
+https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
+
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.imgur.com/SnaIMgj.png",CHROMA TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/Md3xibE.png",DEMAIS TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.imgur.com/C0VEHXU.png",DISCOVERY KIDS
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/8upyApg.png",ELEMENTAL CHANNEL
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+
+#EXTINF:-1 group-title="ANIME" tvg-logo="https://i.imgur.com/jML1u4O.png",GEEKDOT KOREANO
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/RUKVrOH.png",ISTV HD
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/sz9gTTr.png",RECORD TV HD - CANAL 1
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/HZDRG0K.png",RECORD NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/TXJKwzZ.png",REDE BRASIL
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/ZJgD38F.png",REDE TV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/IkZfa4j.png",SBT INTERIOR
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/SysgBqZ.png",TV CIDADE VERDE
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/IrYR7Kp.png",TV EVANGELIZAR
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/0sksWse.png",TV GAZETA
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/iuoXchN.png",TV PAI ETERNO - CANAL 1
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADE" tvg-logo="https://i.imgur.com/iuoXchN.png",TV PAI ETERNO - CANAL 2
+https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
